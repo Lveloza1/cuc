@@ -1,1 +1,1 @@
-# cuc
+# CUC - Universidad de la Costa
